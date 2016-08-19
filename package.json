@@ -1,7 +1,7 @@
 {
   "name": "git",
   "version": "1.0.0",
-  "description": "Some shit, add more shit, even more shit",
+  "description": "Some shit, add more shit",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
